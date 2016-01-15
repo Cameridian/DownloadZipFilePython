@@ -1,4 +1,4 @@
-#Author: Cam Temple
+#Author: Cam
 #Date Created: 04/12/15
 #Usage: Used to scrape a website for links that end in .zip and list them
 #Requirments: BeautifulSoup lib
